@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋 I'm Ahmad Issa
-### 🚀 Software Developer | Flutter Developer | UI Designer
+### 🚀 Software Developer 
 
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
@@ -14,7 +14,8 @@
 
 # 👨‍💻 About Me
 
-- 🎓 Passionate Software Developer
+- 🎓 Computer Science Student
+- 💻 Passionate Software Developer
 - 📱 Flutter Developer
 - 🎨 UI/UX Designer using Figma
 - 💻 I build mobile & desktop applications

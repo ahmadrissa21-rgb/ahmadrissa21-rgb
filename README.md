@@ -3,7 +3,6 @@
 # Hi 👋 I'm Ahmad Issa
 ### 🚀 Software Developer | Flutter Developer | UI Designer
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
@@ -19,7 +18,6 @@
 - 📱 Flutter Developer
 - 🎨 UI/UX Designer using Figma
 - 💻 I build mobile & desktop applications
-- 🚀 Currently improving my skills in ASP.NET & JavaFX
 - ⚡ Love learning new technologies and creating projects
 
 ---
@@ -36,8 +34,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -62,7 +59,7 @@ class AhmadIssa {
 
   final List<String> tools = [
     "Figma",
-    "Firebase",
+    "Supabase",
     "Git",
     "VS Code"
   ];
